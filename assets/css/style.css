@@ -2277,6 +2277,10 @@ a {
   background: #111;
 }
 
+.video-card--wide {
+  grid-column: 1 / -1;
+}
+
 .video-card__meta {
   background: var(--paper);
   padding: 16px 18px;
